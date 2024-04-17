@@ -1,1 +1,1 @@
-# BigDataC
+# BigDataCourse
